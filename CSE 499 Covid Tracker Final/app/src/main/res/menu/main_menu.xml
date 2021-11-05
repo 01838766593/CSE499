@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="@string/profile">
+        <menu>
+            <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/nav_home"
+                    android:title= "@string/home"
+                    android:icon="@drawable/home"/>
+
+                <item
+                    android:id="@+id/nav_about_me"
+                    android:title= "@string/about_me"
+                    android:icon="@drawable/me"/>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title= "@string/logout"
+                    android:icon="@drawable/logout"/>
+
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="@string/settings">
+        <menu>
+            <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/nav_about_app"
+                    android:title= "@string/about"
+                    android:icon="@drawable/about"/>
+            </group>
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_covid_status"
+        android:icon="@drawable/covidstatus"
+        android:title="@string/covid_status"
+        app:actionLayout="@layout/switch_view"
+        />
+
+</menu>

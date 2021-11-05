@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">COVID-19 Tracker</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account?Sign in here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="Not_registered_sign_in_here">Not registered? Sign In here</string>
+    <string name="button">Button</string>
+    <string name="Empty">Fields are Empty!</string>
+    <string name="unsuccessful">Sign Up unsuccessful, Please try again</string>
+    <string name="log_out">Log Out</string>
+    <string name="covid_tracker">Covid Tracker</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="enter_on_time_pin_sent_on">Enter on time pin sent on</string>
+    <string name="verify_phone_no">Verify Phone No</string>
+    <string name="todo3">TODO</string>
+    <string name="enter_verification_code_if_not_automatically_authenticated">Enter verification code if not automatically authenticated.</string>
+    <string name="next">next</string>
+    <string name="to_get_overview_of_covid">Overview</string>
+    <string name="affected">affected</string>
+    <string name="todo1">TODO</string>
+    <string name="disaster_of_covid_19">DISASTER OF COVID-19</string>
+    <string name="t">To get overview of Covid</string>
+    <string name="covid_vaccine_update">COVID VACCINE UPDATE</string>
+    <string name="log_out2">LOG OUT</string>
+    <string name="todo4">TODO</string>
+    <string name="get_a_way">Get a way</string>
+    <string name="location">Location</string>
+    <string name="news">News</string>
+    <string name="todo">TODO</string>
+    <string name="hospital">Hospital</string>
+    <string name="search">search</string>
+    <string name="already_logged_in_click_here">Already Logged In? Click Here</string>
+    <string name="about_app">An app installed in the phone and running a background service where the GPS location and time is stored and sent to a central server. Any individual who is reported as COVID-19 positive is to be checked where he is in the real time and Providing exact Covid positive user number within certain range to all Covid non positive users while they roaming around before infecting.</string>
+    <string name="n_a">N/A</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="update">update</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="remove_location_updates">Remove</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="enable">Enable</string>
+    <string name="gps_required">GPS permission needed</string>
+    <string name="permission_denied_explanation">GPS permission needed for getting nearby covid patient</string>
+    <string name="location_updated">Location update: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="logout">Logout</string>
+    <string name="about_me">About me</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="profile">Profile</string>
+    <string name="covid_status">Covid Status</string>
+
+    <string-array name="radius">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
